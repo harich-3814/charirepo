@@ -5,6 +5,7 @@ public class Git {
 	{
 		System.out.println("first print after project added");
 		int a;
+		int c;
 	}
 
 }
